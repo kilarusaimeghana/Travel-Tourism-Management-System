@@ -32,7 +32,7 @@ Travel-Tourism-Management-System/
 1. Clone this repository.
 2. Open the project in VS Code or Eclipse.
 3. Compile the Java files.
-4. Run `TourismApp.java`.
+4. Run `TourismApp.java`. or 'java TourismApp'.
 
 ## 📚 Concepts Used
 - Classes & Objects
@@ -41,6 +41,8 @@ Travel-Tourism-Management-System/
 - Exception Handling
 - Collections
 - File Handling (if used)
+
+  ![image alt](https://github.com/kilarusaimeghana/Travel-Tourism-Management-System/blob/c508803f659b5be9204e967c0c8e264ed391bc95/Screenshot%202026-07-14%20103629.png)
 
 ## 👩‍💻 Author
 **Sai Meghana**
